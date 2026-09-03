@@ -26,9 +26,9 @@ Building useful things and learning in public.
 ## Service signals
 
 <p align="center">
-  <img src="https://github-readme-stats-zenith16f.vercel.app/api?username=zenith16f&show_icons=true&hide_border=true&bg_color=141210&title_color=c9a96e&text_color=a89070&icon_color=8b6914&ring_color=8b6914&include_all_commits=true&count_private=true" alt="stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=zenith16f&show_icons=true&hide_border=true&bg_color=141210&title_color=c9a96e&text_color=a89070&icon_color=8b6914&ring_color=8b6914&include_all_commits=true&count_private=true" alt="stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-zenith16f.vercel.app/api/top-langs/?username=zenith16f&layout=compact&hide_border=true&bg_color=141210&title_color=c9a96e&text_color=a89070&langs_count=8" alt="top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zenith16f&layout=compact&hide_border=true&bg_color=141210&title_color=c9a96e&text_color=a89070&langs_count=8" alt="top languages" />
 </p>
 
 ## Infrastructure shipped
