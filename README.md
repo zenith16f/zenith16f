@@ -30,7 +30,7 @@ Building useful things and learning in public.
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zenith16f&layout=compact&hide_border=true&bg_color=141210&title_color=c9a96e&text_color=a89070&langs_count=8&hide=python,vue" alt="top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zenith16f&layout=compact&hide_border=true&bg_color=0d1117&title_color=89d185&text_color=7d9b76&langs_count=8&hide=python,vue" alt="top languages" />
 </p>
 
 ## Infrastructure shipped
@@ -49,21 +49,21 @@ Building useful things and learning in public.
 
 <pre><code>zenith16f@github:~$ toolbox --list</code></pre>
 
-![C](https://img.shields.io/badge/C-6b4f2a?style=flat-square&logo=c&logoColor=c9a96e)
-![C#](https://img.shields.io/badge/C%23-6b4f2a?style=flat-square&logo=dotnet&logoColor=c9a96e)
-![TypeScript](https://img.shields.io/badge/TypeScript-6b4f2a?style=flat-square&logo=typescript&logoColor=c9a96e)
-![Rust](https://img.shields.io/badge/Rust-6b4f2a?style=flat-square&logo=rust&logoColor=c9a96e)
-![VHDL](https://img.shields.io/badge/VHDL-6b4f2a?style=flat-square&logoColor=c9a96e)
-![Godot](https://img.shields.io/badge/Godot-6b4f2a?style=flat-square&logo=godotengine&logoColor=c9a96e)
-![Astro](https://img.shields.io/badge/Astro-6b4f2a?style=flat-square&logo=astro&logoColor=c9a96e)
-![Node.js](https://img.shields.io/badge/Node.js-6b4f2a?style=flat-square&logo=node.js&logoColor=c9a96e)
-![Linux](https://img.shields.io/badge/Linux-6b4f2a?style=flat-square&logo=linux&logoColor=c9a96e)
-![Git](https://img.shields.io/badge/Git-6b4f2a?style=flat-square&logo=git&logoColor=c9a96e)
+![C](https://img.shields.io/badge/C-1a3a1a?style=flat-square&logo=c&logoColor=89d185)
+![C#](https://img.shields.io/badge/C%23-1a3a1a?style=flat-square&logo=dotnet&logoColor=89d185)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a3a1a?style=flat-square&logo=typescript&logoColor=89d185)
+![Rust](https://img.shields.io/badge/Rust-1a3a1a?style=flat-square&logo=rust&logoColor=89d185)
+![VHDL](https://img.shields.io/badge/VHDL-1a3a1a?style=flat-square&logoColor=89d185)
+![Godot](https://img.shields.io/badge/Godot-1a3a1a?style=flat-square&logo=godotengine&logoColor=89d185)
+![Astro](https://img.shields.io/badge/Astro-1a3a1a?style=flat-square&logo=astro&logoColor=89d185)
+![Node.js](https://img.shields.io/badge/Node.js-1a3a1a?style=flat-square&logo=node.js&logoColor=89d185)
+![Linux](https://img.shields.io/badge/Linux-1a3a1a?style=flat-square&logo=linux&logoColor=89d185)
+![Git](https://img.shields.io/badge/Git-1a3a1a?style=flat-square&logo=git&logoColor=89d185)
 
 ## Keep it moving
 
 <pre><code>zenith16f@github:~$ contact --list</code></pre>
 
-[![GitHub](https://img.shields.io/badge/github.com%2Fzenith16f-141210?style=flat-square&logo=github&logoColor=c9a96e)](https://github.com/zenith16f)
-[![LinkedIn](https://img.shields.io/badge/linkedin-141210?style=flat-square&logo=linkedin&logoColor=c9a96e)](https://www.linkedin.com/in/fernando-guzmán-celaya-350847411/)
-[![Portfolio](https://img.shields.io/badge/portfolio-141210?style=flat-square&logo=astro&logoColor=c9a96e)](https://minimalist-portfolio-harvard-cv.vercel.app)
+[![GitHub](https://img.shields.io/badge/github.com%2Fzenith16f-0d1117?style=flat-square&logo=github&logoColor=89d185)](https://github.com/zenith16f)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=89d185)](https://www.linkedin.com/in/fernando-guzmán-celaya-350847411/)
+[![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=astro&logoColor=89d185)](https://minimalist-portfolio-harvard-cv.vercel.app)
