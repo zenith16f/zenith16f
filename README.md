@@ -20,14 +20,16 @@ Building useful things and learning in public.
 ## Uptime in motion
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenith16f&bg_color=141210&color=c9a96e&line=8b6914&point=d4a843&area=true&area_color=8b6914&hide_border=true&radius=6&custom_title=Contribution%20Graph" alt="contribution graph" />
+  <img src="https://raw.githubusercontent.com/zenith16f/zenith16f/main/profile/wave-commits.svg" alt="contribution wave" width="100%" />
 </p>
 
 ## Service signals
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=zenith16f&show_icons=true&hide_border=true&bg_color=141210&title_color=c9a96e&text_color=a89070&icon_color=8b6914&ring_color=8b6914&include_all_commits=true&count_private=true&disable_animations=true" alt="stats" />
-  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/zenith16f/zenith16f/main/profile/streak.svg" alt="streak stats" />
+</p>
+
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zenith16f&layout=compact&hide_border=true&bg_color=141210&title_color=c9a96e&text_color=a89070&langs_count=8&hide=python,vue" alt="top languages" />
 </p>
 
