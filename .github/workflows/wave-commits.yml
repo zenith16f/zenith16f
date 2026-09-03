@@ -2,8 +2,8 @@ name: Update profile assets
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Daily at midnight
-  workflow_dispatch:        # Run manually from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -24,7 +24,7 @@ jobs:
         with:
           github_user_name: 'zenith16f'
           output_path: 'profile/wave-commits.svg'
-          color_palette: 'sunset'
+          color_palette: 'classic-green'
           animation_style: '2'
 
       - name: Commit wave SVG
@@ -38,12 +38,16 @@ jobs:
   streak:
     name: Streak stats
     runs-on: ubuntu-latest
+    needs: wave
     permissions:
       contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Pull latest changes
+        run: git pull origin main
 
       - name: Generate streak SVG
         uses: DenverCoder1/github-readme-streak-stats@main
@@ -52,16 +56,16 @@ jobs:
           path: profile/streak.svg
           options: >-
             user=zenith16f
-            &background=141210
-            &border=2d1f14
-            &stroke=2d1f14
-            &ring=8b6914
-            &fire=d4a843
-            &currStreakNum=c9a96e
-            &sideNums=c9a96e
-            &currStreakLabel=a89070
-            &sideLabels=a89070
-            &dates=6b4f2a
+            &background=0d1117
+            &border=1a3a1a
+            &stroke=1a3a1a
+            &ring=3fb950
+            &fire=89d185
+            &currStreakNum=89d185
+            &sideNums=89d185
+            &currStreakLabel=7d9b76
+            &sideLabels=7d9b76
+            &dates=3fb950
             &hide_border=true
 
       - name: Commit streak SVG
