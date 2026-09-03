@@ -13,22 +13,22 @@
 <pre><code>ROLE        = Game dev & full-stack engineer
 LOCATION    = remote
 STATUS      = Building in public
-STACK       = C · C# · TypeScript · Python · VHDL</code></pre>
+STACK       = C · C# · TypeScript · Godot · VHDL</code></pre>
 
 Building useful things and learning in public.
 
 ## Uptime in motion
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenith16f&bg_color=141210&color=c9a96e&line=8b6914&point=d4a843&area=true&area_color=8b6914&hide_border=true&radius=6" alt="contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenith16f&bg_color=141210&color=c9a96e&line=8b6914&point=d4a843&area=true&area_color=8b6914&hide_border=true&radius=6&custom_title=Contribution%20Graph" alt="contribution graph" />
 </p>
 
 ## Service signals
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=zenith16f&show_icons=true&hide_border=true&bg_color=141210&title_color=c9a96e&text_color=a89070&icon_color=8b6914&ring_color=8b6914&include_all_commits=true&count_private=true" alt="stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=zenith16f&show_icons=true&hide_border=true&bg_color=141210&title_color=c9a96e&text_color=a89070&icon_color=8b6914&ring_color=8b6914&include_all_commits=true&count_private=true&disable_animations=true" alt="stats" />
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zenith16f&layout=compact&hide_border=true&bg_color=141210&title_color=c9a96e&text_color=a89070&langs_count=8" alt="top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zenith16f&layout=compact&hide_border=true&bg_color=141210&title_color=c9a96e&text_color=a89070&langs_count=8&hide=python,vue" alt="top languages" />
 </p>
 
 ## Infrastructure shipped
@@ -63,4 +63,5 @@ Building useful things and learning in public.
 <pre><code>zenith16f@github:~$ contact --list</code></pre>
 
 [![GitHub](https://img.shields.io/badge/github.com%2Fzenith16f-141210?style=flat-square&logo=github&logoColor=c9a96e)](https://github.com/zenith16f)
+[![LinkedIn](https://img.shields.io/badge/linkedin-141210?style=flat-square&logo=linkedin&logoColor=c9a96e)](https://www.linkedin.com/in/fernando-guzmán-celaya-350847411/)
 [![Portfolio](https://img.shields.io/badge/portfolio-141210?style=flat-square&logo=astro&logoColor=c9a96e)](https://minimalist-portfolio-harvard-cv.vercel.app)
