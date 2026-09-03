@@ -1,15 +1,16 @@
-name: Generate Wave Commits
+name: Update profile assets
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight
-  workflow_dispatch:        # Run manually anytime from Actions tab
+    - cron: "0 0 * * *"   # Daily at midnight
+  workflow_dispatch:        # Run manually from Actions tab
   push:
     branches:
       - main
 
 jobs:
-  build:
+  wave:
+    name: Wave contribution graph
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -18,18 +19,55 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Wave Commits SVG
+      - name: Generate wave SVG
         uses: VuxDucGiang/wave@main
         with:
           github_user_name: 'zenith16f'
           output_path: 'profile/wave-commits.svg'
           color_palette: 'sunset'
-          animation_style: '2'         # Clean diagonal opacity fade (sonar-style)
+          animation_style: '2'
 
-      - name: Commit and Push SVG
+      - name: Commit wave SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/wave-commits.svg
-          git commit -m "chore: update wave contribution graph" || exit 0
+          git commit -m "chore: update wave graph" || exit 0
+          git push
+
+  streak:
+    name: Streak stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate streak SVG
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: profile/streak.svg
+          options: >-
+            user=zenith16f
+            &background=141210
+            &border=2d1f14
+            &stroke=2d1f14
+            &ring=8b6914
+            &fire=d4a843
+            &currStreakNum=c9a96e
+            &sideNums=c9a96e
+            &currStreakLabel=a89070
+            &sideLabels=a89070
+            &dates=6b4f2a
+            &hide_border=true
+
+      - name: Commit streak SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "chore: update streak stats" || exit 0
           git push
