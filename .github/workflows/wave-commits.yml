@@ -57,15 +57,14 @@ jobs:
           options: >-
             user=zenith16f
             &background=0d1117
-            &border=1a3a1a
-            &stroke=1a3a1a
-            &ring=3fb950
-            &fire=89d185
-            &currStreakNum=89d185
-            &sideNums=89d185
-            &currStreakLabel=7d9b76
-            &sideLabels=7d9b76
-            &dates=3fb950
+            &stroke=ffffff1a
+            &ring=ffffff
+            &fire=ffffff
+            &currStreakNum=ffffff
+            &sideNums=ffffffcc
+            &currStreakLabel=ffffff99
+            &sideLabels=ffffff99
+            &dates=ffffff55
             &hide_border=true
 
       - name: Commit streak SVG
