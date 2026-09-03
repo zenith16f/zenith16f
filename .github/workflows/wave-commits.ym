@@ -1,0 +1,35 @@
+name: Generate Wave Commits
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at midnight
+  workflow_dispatch:        # Run manually anytime from Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Wave Commits SVG
+        uses: VuxDucGiang/wave@main
+        with:
+          github_user_name: 'zenith16f'
+          output_path: 'profile/wave-commits.svg'
+          color_palette: 'sunset'
+          animation_style: '2'         # Clean diagonal opacity fade (sonar-style)
+
+      - name: Commit and Push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/wave-commits.svg
+          git commit -m "chore: update wave contribution graph" || exit 0
+          git push
