@@ -26,7 +26,7 @@ Building useful things and learning in public.
 ## Service signals
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zenith16f&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zenith16f&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
