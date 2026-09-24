@@ -6,7 +6,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=zenith16f&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F124751563%3Fu%3Debe4bdccea1c2f12735d21c5cc81e4e1c1435303%26v%3D4&style=terminal" alt="zenith16f" />
 </p>
 
-**Fernando** · Game dev & full-stack engineer
+**Fernando** · Road to Game dev & full-stack engineer
 
 ## Operating principles
 
