@@ -59,6 +59,7 @@ Building useful things and learning in public.
 ![Node.js](https://img.shields.io/badge/Node.js-1a1b2e?style=flat-square&logo=node.js&logoColor=7aa2f7)
 ![Linux](https://img.shields.io/badge/Linux-1a1b2e?style=flat-square&logo=linux&logoColor=7aa2f7)
 ![Git](https://img.shields.io/badge/Git-1a1b2e?style=flat-square&logo=git&logoColor=bb9af7)
+![Gumroad](https://zenithflare05.gumroad.com/l/OS)
 
 ## Keep it moving
 
