@@ -1,5 +1,6 @@
 ## Build · break · respawn
 
+<p><code>zenith16f@github:~$ whoami</code></p>
 <p align="center">
   <img src="./profile/hero-terminal.svg" alt="zenith16f · Fernando Guzmán · Game dev & full-stack engineer" width="100%" />
 </p>
