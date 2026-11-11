@@ -1,3 +1,5 @@
+## Build · break · respawn
+
 <p align="center">
   <img src="./profile/hero-terminal.svg" alt="zenith16f · Fernando Guzmán · Game dev & full-stack engineer" width="100%" />
 </p>
@@ -8,7 +10,7 @@
   <a href="https://zenithflare05.gumroad.com"><img src="https://img.shields.io/badge/shop-gumroad-1a1b2e?style=flat-square&logo=gumroad&logoColor=ff90e8&labelColor=0d1117" alt="Gumroad" /></a>
 </p>
 
-## Build · break · ship
+## Operating principles
 
 <pre><code>ROLE        = Game dev &amp; full-stack engineer
 LOCATION    = remote
