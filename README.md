@@ -1,19 +1,20 @@
-## Build · break · ship
-
-<p><code>zenith16f@github:~$ whoami</code></p>
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=zenith16f&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F124751563%3Fu%3Debe4bdccea1c2f12735d21c5cc81e4e1c1435303%26v%3D4&style=terminal" alt="zenith16f" />
+  <img src="./profile/hero-terminal.svg" alt="zenith16f · Fernando Guzmán · Game dev & full-stack engineer" width="100%" />
 </p>
 
-**Fernando** · Road to Game dev & full-stack engineer
+<p align="center">
+  <a href="https://github.com/zenith16f"><img src="https://img.shields.io/github/followers/zenith16f?style=flat-square&label=followers&labelColor=0d1117&color=1a1b2e&logo=github&logoColor=c0caf5" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zenith16f&style=flat-square&color=7aa2f7&label=profile+views" alt="profile views" />
+  <a href="https://zenithflare05.gumroad.com"><img src="https://img.shields.io/badge/shop-gumroad-1a1b2e?style=flat-square&logo=gumroad&logoColor=ff90e8&labelColor=0d1117" alt="Gumroad" /></a>
+</p>
 
-## Operating principles
+## Build · break · ship
 
-<pre><code>ROLE        = Game dev & full-stack engineer
+<pre><code>ROLE        = Game dev &amp; full-stack engineer
 LOCATION    = remote
 STATUS      = Building in public
-STACK       = C · C# · TypeScript · Godot · VHDL</code></pre>
+STACK       = C · C# · TypeScript · Godot · VHDL
+SHOP        = zenithflare05.gumroad.com</code></pre>
 
 Building useful things and learning in public.
 
@@ -45,6 +46,18 @@ Building useful things and learning in public.
 | [SchoolCodes](https://github.com/zenith16f/SchoolCodes) | Coursework archive · algorithms, systems, digital design |
 | [Learning](https://github.com/zenith16f/Learning) | Language sandbox · C · C# · Python · Rust |
 
+## Digital releases
+
+<pre><code>zenith16f@github:~$ ls ~/gumroad/</code></pre>
+
+| product | format | price |
+|---------|--------|-------|
+| [From Vacuum Tubes to AI: Operating Systems History](https://zenithflare05.gumroad.com/l/OS) | Bilingual ES/EN | Free |
+
+<p>
+  <a href="https://zenithflare05.gumroad.com"><img src="https://img.shields.io/badge/browse%20the%20store-zenithflare05.gumroad.com-0d1117?style=for-the-badge&logo=gumroad&logoColor=ff90e8&labelColor=1a1b2e" alt="Visit my Gumroad store" /></a>
+</p>
+
 ## Platform toolkit
 
 <pre><code>zenith16f@github:~$ toolbox --list</code></pre>
@@ -65,6 +78,8 @@ Building useful things and learning in public.
 <pre><code>zenith16f@github:~$ contact --list</code></pre>
 
 [![GitHub](https://img.shields.io/badge/github.com%2Fzenith16f-0d1117?style=flat-square&logo=github&logoColor=c0caf5)](https://github.com/zenith16f)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/fernando-guzmán-celaya-350847411/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/fernando-guzm%C3%A1n-celaya-350847411/)
 [![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=astro&logoColor=bb9af7)](https://minimalist-portfolio-harvard-cv.vercel.app)
-[Gumroad](https://zenithflare05.gumroad.com)
+[![Gumroad](https://img.shields.io/badge/gumroad-0d1117?style=flat-square&logo=gumroad&logoColor=ff90e8)](https://zenithflare05.gumroad.com)
+
+<p align="center"><sub><code>zenith16f@github:~$ exit</code> · thanks for stopping by</sub></p>
